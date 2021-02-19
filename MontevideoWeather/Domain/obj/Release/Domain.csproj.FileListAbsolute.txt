@@ -1,0 +1,6 @@
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Domain\bin\Release\Domain.dll.config
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Domain\bin\Release\Domain.dll
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Domain\bin\Release\Domain.pdb
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Domain\obj\Release\Domain.dll
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Domain\obj\Release\Domain.pdb

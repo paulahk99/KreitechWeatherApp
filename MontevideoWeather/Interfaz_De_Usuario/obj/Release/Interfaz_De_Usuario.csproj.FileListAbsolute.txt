@@ -1,0 +1,17 @@
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\bin\Release\Interfaz_De_Usuario.exe.config
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\bin\Release\Interfaz_De_Usuario.exe
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\bin\Release\Interfaz_De_Usuario.pdb
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\bin\Release\EntityFramework.dll
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\bin\Release\Newtonsoft.Json.dll
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\bin\Release\EntityFramework.xml
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\bin\Release\Newtonsoft.Json.xml
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\obj\Release\Interfaz_De_Usuario.csprojAssemblyReference.cache
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\obj\Release\Interfaz_De_Usuario.MainPage.resources
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\obj\Release\Interfaz_De_Usuario.Properties.Resources.resources
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\obj\Release\Interfaz_De_Usuario.csproj.GenerateResource.cache
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\obj\Release\Interfaz_De_Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\obj\Release\Interfaz_De_Usuario.csproj.CopyComplete
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\obj\Release\Interfaz_De_Usuario.exe
+C:\Users\Paula Hernandez\Desktop\WeatherAppKreitech\WeatherAppKreitech\MontevideoWeather\Interfaz_De_Usuario\obj\Release\Interfaz_De_Usuario.pdb

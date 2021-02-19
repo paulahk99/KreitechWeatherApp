@@ -1,0 +1,13 @@
+C:\Users\Paula Hernandez\Desktop\MontevideoWeather\Domain\bin\Debug\Domain.dll.config
+C:\Users\Paula Hernandez\Desktop\MontevideoWeather\Domain\bin\Debug\Domain.dll
+C:\Users\Paula Hernandez\Desktop\MontevideoWeather\Domain\bin\Debug\Domain.pdb
+C:\Users\Paula Hernandez\Desktop\MontevideoWeather\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Paula Hernandez\Desktop\MontevideoWeather\Domain\obj\Debug\Domain.dll
+C:\Users\Paula Hernandez\Desktop\MontevideoWeather\Domain\obj\Debug\Domain.pdb
+C:\Users\Paula Hernandez\Desktop\copia2\MontevideoWeather\Domain\bin\Debug\Domain.dll.config
+C:\Users\Paula Hernandez\Desktop\copia2\MontevideoWeather\Domain\bin\Debug\Domain.dll
+C:\Users\Paula Hernandez\Desktop\copia2\MontevideoWeather\Domain\bin\Debug\Domain.pdb
+C:\Users\Paula Hernandez\Desktop\copia2\MontevideoWeather\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Paula Hernandez\Desktop\copia2\MontevideoWeather\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Paula Hernandez\Desktop\copia2\MontevideoWeather\Domain\obj\Debug\Domain.dll
+C:\Users\Paula Hernandez\Desktop\copia2\MontevideoWeather\Domain\obj\Debug\Domain.pdb

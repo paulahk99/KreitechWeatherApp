@@ -1,0 +1,16 @@
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\obligatorio1.dll.config
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\obligatorio1.dll
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\obligatorio1.pdb
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\EntityFramework.dll
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\Magnum.dll
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\EntityFramework.xml
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\Magnum.xml
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\obj\Debug\obligatorio1.dll
+C:\Users\Paula Hernandez\Desktop\obligatorio1\obligatorio1\obj\Debug\obligatorio1.pdb
